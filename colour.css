@@ -1,0 +1,270 @@
+
+
+
+nav{
+    
+    display:flex;
+    justify-content: space-between;
+    padding:10px;
+    padding:20px;
+}
+
+img{
+    width:100%;;
+    height:auto;
+}
+.i{
+    
+    display: flex;
+    justify-content: center;
+    width:10%
+}
+
+.cen{
+    display:flex;
+    align-items: center;
+    gap:1rem;
+}
+.account{
+    display: flex;
+    align-items: center;
+    
+    
+   
+}
+.one,.two{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    padding:3px;
+    font-size:medium;
+}
+
+.body{
+    display: flex;
+    padding:50px;
+   
+}
+.ii{
+    width:20px;
+    height:auto;
+    
+    
+    align-self: center;
+    
+}
+.us{
+    width:20px;
+    height:auto;
+    align-self: center;
+    border:3px solid white
+}
+.button{
+    
+    padding:10px;
+    width:20px;
+    border-radius: 40%;
+    
+}
+.arr{
+    width:40px;
+    height:40px;
+    display: flex;
+    align-self: center;
+    border:3px solid green;
+    border-radius: 40%;
+}
+.accounto{
+    
+    background-color: blue;
+    padding:10px;
+    color:white;
+   
+    
+
+    
+}
+.a{
+    display:flex;
+    flex-direction: column;
+    padding:10px;
+    justify-content:space-around;
+    gap:2rem;
+    width:80%;
+    margin:auto
+}
+.firstdiv{
+    padding:20px;
+
+}
+.innerdiv{
+    width:50%;
+
+    display: flex;
+    padding-left: 10px;
+    padding-right:10px;
+    justify-content:space-around;
+}
+.firstdiv h1{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 50px;
+    display: flex;
+    justify-content: flex-start;
+}
+.firstdiv .td{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 600;
+}
+.para,.accounto{
+    font-weight:500;
+    
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.two{
+    padding:10px;
+    box-shadow: 3px 3px 3px black ;
+
+}
+
+.accounto:hover{
+    letter-spacing: 0.2rem;
+    box-shadow: 0px 0px 2px 3px blue;
+    
+}
+.account:hover .two{
+    
+   
+    color:rgb(248, 2, 84);
+    
+}
+.one:hover{
+    letter-spacing:0.1rem;
+    box-shadow: 0px 0px 5px 3px rgb(248, 2, 84);
+    color:rgb(248, 2, 84);
+    border-bottom:rgb(233, 10, 10) ;
+    border-top:rgb(189, 7, 7)
+}
+.two:hover{
+    box-shadow: 0px 0px 5px 3px rgb(248, 2, 84);
+    border:none
+}
+.a p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.id{
+    color: rgba(74, 85, 85, 0.884);
+}
+footer{
+    height:50px;
+}
+
+.a{
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.p1{
+    margin-left:-7px;
+}
+.p2{
+    margin-left:-11px;
+}
+.p3{
+    margin-left:-19px;
+}
+
+.us{
+    border:3px solid ;
+}
+.us1{
+    position:relative;
+    right: 30px;
+}
+.us2{
+    position:relative;
+    right:40px
+}
+.us3{
+    position:relative;
+    right:20px;
+}
+.us4{
+    position:relative;
+    right:9px;
+}
+.b1{
+    position:relative;
+    right:60px;
+
+
+}
+.b3{
+    position:relative;
+    right:53px;
+
+
+}
+.b4{
+    position:relative;
+    right:45px;
+
+
+}
+.b2{
+    position:relative;
+    right:65px;
+
+
+}
+.button1{
+    position:relative;
+    right:100px;
+    background-color: rgba(255, 192, 203, 0.452);
+}
+
+.button2{
+    position:relative;
+    right:100px;
+    background-color: rgba(255, 0, 0, 0.295);
+}
+.button3{
+    position:relative;
+    right:95px;
+    background-color:rgba(0, 128, 0, 0.315);
+}
+.button4{
+    position:relative;
+    right:95px;
+    background-color: rgba(255, 255, 0, 0.267);
+}
+.ii{
+    position:relative;
+    left:40px;
+    top:-3px
+}
+.ii4{
+    left:35px;
+}
+.ii2{
+    left:43px;
+}
+body{
+    margin:0px;
+
+}
+
+.two{
+    
+    color:rgb(13, 13, 14);
+    
+
+   
+}
+.ab{
+    box-shadow: 0px 0px 4px 4px rgba(111, 111, 236, 0.993);
+
+}
+.a img{
+    border:3px solid white;
+    
+}
